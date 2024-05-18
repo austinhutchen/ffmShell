@@ -1,0 +1,1 @@
+ffmpeg -t 24 -i input.avi output.avi
